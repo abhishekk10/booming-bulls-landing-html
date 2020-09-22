@@ -1,0 +1,1 @@
+fomo.setup([], {"time_ago":{"pre":"about","post":"ago","periods":[["second","seconds"],["minute","minutes"],["hour","hours"],["day","days"],["week","weeks"],["month","months"],["year","years"]]},"page":"page","website":"website","time_period":{"180":"just now","300":"just now","1800":"In last 30 minutes","10800":"In last 3 hours","86400":"in the last 24 hours"}});
